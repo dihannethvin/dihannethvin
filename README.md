@@ -1,4 +1,4 @@
-![giphy](https://github.com/user-attachments/assets/61c9bf84-2235-41cd-9b2a-ee47c1a8812a)<h2 align="left">Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> I'm Dihan Nethvin </h2>
+<h2 align="left">Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> I'm Dihan Nethvin </h2>
 
 <a href="https://instagram.com/dihan_nethvin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:dihannethvin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
